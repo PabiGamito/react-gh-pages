@@ -52,6 +52,8 @@ The build is minified and the filenames include the hashes.<br>
 
 The built app is then deployed to GitHub pages.
 
+You can then visit the live version of the app at [https://pabigamito.github.io/react-gh-pages/](https://pabigamito.github.io/react-gh-pages/)
+
 ## Testing
 
 ### `npm test`
